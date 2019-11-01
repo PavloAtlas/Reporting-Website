@@ -1,0 +1,21 @@
+	.app-tittle {
+		text-align: center;
+	}
+	.footer{
+		text-align: center;
+	}
+	.card {
+	max-width: 650px;
+	padding: 20px;
+	margin: 30px auto;
+	background-color: #fff;
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+	overflow: hidden;}
+	.article_photo  {
+  float: left;
+  width: 40%;
+  margin-right: 15px;
+}
+.label_date {
+	font-weight: lighter;
+}
